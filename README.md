@@ -7,3 +7,4 @@ kcc 창호 사업부의 신규 창호 라인 개발 컨셉 및 기능 및 옵션
 [KCC 신규 창호 네이밍 제미나이(딥 리서치).docx](https://github.com/user-attachments/files/29374909/KCC.docx)
 [kcc 신규 창호 네이밍 claude sonnect 4.6.docx](https://github.com/user-attachments/files/29374908/kcc.claude.sonnect.4.6.docx)
 [Executive Summary gpt 리서치.pdf](https://github.com/user-attachments/files/29374907/Executive.Summary.gpt.pdf)
+최종 각 모델은 비교한 내용은 아래와 같습니다. [KCC_LLM_비교분석_보고서.docx](https://github.com/user-attachments/files/29375230/KCC_LLM_._.docx)
